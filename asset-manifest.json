@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/travel/static/css/main.8f340ccb.css",
+    "main.js": "/travel/static/js/main.c9a2a508.js",
+    "static/media/space.mp4": "/travel/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/travel/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/moon.jpg": "/travel/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/pod.jpg": "/travel/static/media/pod.30776f82b7df80237211.jpg",
+    "index.html": "/travel/index.html",
+    "main.8f340ccb.css.map": "/travel/static/css/main.8f340ccb.css.map",
+    "main.c9a2a508.js.map": "/travel/static/js/main.c9a2a508.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f340ccb.css",
+    "static/js/main.c9a2a508.js"
+  ]
+}
